@@ -1,8 +1,8 @@
+<div class="image-with-text">
 <img 
   src="/img/Annaphoto.jpeg" 
   alt="Anna headshot" 
-  width="25%"
-  style="float:left;"> 
+  width="25%">
   I'm a PhD student in the <a 
   href="https://www.colorado.edu/lab/johnson-laboratory"
   target="_blank">
@@ -21,4 +21,5 @@
   target="_blank">
   Google Scholar
   </a>
+</div>
 
