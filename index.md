@@ -1,7 +1,8 @@
-<div> <p style="float: left; clear: left"> <img 
+<img 
   src="/img/Annaphoto.jpeg" 
   alt="Anna headshot" 
-  width="25%">  </p>
+  width="25%"
+  style="float:left;"> 
   I'm a PhD student in the <a 
   href="https://www.colorado.edu/lab/johnson-laboratory"
   target="_blank">
@@ -19,5 +20,5 @@
   href="https://scholar.google.com/citations?user=1Wc6hZYAAAAJ&hl=en"
   target="_blank">
   Google Scholar
-  </a> </div>
+  </a>
 
