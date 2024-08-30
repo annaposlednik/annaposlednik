@@ -3,4 +3,4 @@ I'm a PhD student in the [Johnson Lab](https://www.colorado.edu/lab/johnson-labo
 
 #### Contact Information
 * anna.poslednik@colorado.edu
-* [LinkedIn](www.linkedin.com/in/anna-poslednik)
+* [LinkedIn](https://www.linkedin.com/in/anna-poslednik)
