@@ -1,8 +1,9 @@
 <div class="image-with-text">
+<p style="float: left;">
 <img 
   src="/img/Annaphoto.jpeg" 
   alt="Anna headshot" 
-  width="25%">
+  width="25%"> </p>
   I'm a PhD student in the <a 
   href="https://www.colorado.edu/lab/johnson-laboratory"
   target="_blank">
