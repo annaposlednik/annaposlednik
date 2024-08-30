@@ -1,5 +1,4 @@
 
-## Anna Poslednik
 <img 
   src="/img/Annaphoto.jpeg" 
   alt="Anna headshot" 
