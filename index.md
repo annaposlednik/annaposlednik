@@ -9,6 +9,7 @@
   target="_blank">
   Johnson lab
 </a>  at the University of Colorado, Boulder. My research focuses on the role of parasites and disease in marine ecosystems.
+</div>
 
 #### Contact Information
 * anna.poslednik@colorado.edu
@@ -22,5 +23,5 @@
   target="_blank">
   Google Scholar
   </a>
-</div>
+
 
