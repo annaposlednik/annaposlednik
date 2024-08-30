@@ -1,9 +1,8 @@
-
-<img 
+<p style="float: left; clear: left"> <img 
   src="/img/Annaphoto.jpeg" 
   alt="Anna headshot" 
-  width="25%">
-I'm a PhD student in the <a 
+  width="25%">  </p>
+  I'm a PhD student in the <a 
   href="https://www.colorado.edu/lab/johnson-laboratory"
   target="_blank">
   Johnson lab
