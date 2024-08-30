@@ -1,4 +1,4 @@
-<p style="float: left; clear: left"> <img 
+<div> <p style="float: left; clear: left"> <img 
   src="/img/Annaphoto.jpeg" 
   alt="Anna headshot" 
   width="25%">  </p>
@@ -6,7 +6,7 @@
   href="https://www.colorado.edu/lab/johnson-laboratory"
   target="_blank">
   Johnson lab
-</a>  at the University of Colorado, Boulder. My research focuses on the role of parasites and disease in marine ecosystems. 
+</a>  at the University of Colorado, Boulder. My research focuses on the role of parasites and disease in marine ecosystems.
 
 #### Contact Information
 * anna.poslednik@colorado.edu
@@ -19,5 +19,5 @@
   href="https://scholar.google.com/citations?user=1Wc6hZYAAAAJ&hl=en"
   target="_blank">
   Google Scholar
-  </a>
+  </a> </div>
 
