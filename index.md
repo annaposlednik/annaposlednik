@@ -2,7 +2,7 @@
 <img 
   src="/img/Annaphoto.jpeg" 
   alt="Anna headshot" 
-  width="25%"
+  width="40%"
   style="float: left; margin-right: 10px;">
   I'm a PhD student in the <a 
   href="https://www.colorado.edu/lab/johnson-laboratory"
@@ -32,4 +32,4 @@
 
 
 #### Map of University of Colorado, Boulder
-<embed type="text/html" src="img/cub_map.html" width="300" height="300">
+<embed type="text/html" src="img/cub_map.html" width="500" height="500">
