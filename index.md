@@ -24,5 +24,7 @@
   Google Scholar
   </a>
 
+
+
 ### Map of University of Colorado, Boulder
-<embed type="text/html" src="/img/cub_map.html" width="500" height="500">
+<embed type="text/html" src="img/cub_map.html" width="300" height="300">
