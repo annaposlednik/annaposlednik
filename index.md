@@ -2,7 +2,7 @@
 <img 
   src="/img/Annaphoto.jpeg" 
   alt="Anna headshot" 
-  width="40%"
+  width="35%"
   style="float: left; margin-right: 10px;">
   I'm a PhD student in the <a 
   href="https://www.colorado.edu/lab/johnson-laboratory"
@@ -28,6 +28,8 @@
   target="_blank">
   Google Scholar
   </a>
+
+
 
 
 
