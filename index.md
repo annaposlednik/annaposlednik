@@ -12,9 +12,9 @@
 </div>
 
 #### Educational Background
-M.S. Virginia Institute of Marine Science, College of William & Mary
-B.S. Cornell University
-A.A. Bard Early College
+* M.S. Virginia Institute of Marine Science, College of William & Mary
+* B.S. Cornell University
+* A.A. Bard Early College
 
 #### Contact Information
 * anna.poslednik@colorado.edu
