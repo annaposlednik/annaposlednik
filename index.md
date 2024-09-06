@@ -11,6 +11,11 @@
 </a>  at the University of Colorado, Boulder. My research focuses on the role of parasites and disease in marine ecosystems.
 </div>
 
+#### Educational Background
+M.S. Virginia Institute of Marine Science, College of William & Mary
+B.S. Cornell University
+A.A. Bard Early College
+
 #### Contact Information
 * anna.poslednik@colorado.edu
 * <a 
@@ -26,5 +31,5 @@
 
 
 
-### Map of University of Colorado, Boulder
+#### Map of University of Colorado, Boulder
 <embed type="text/html" src="img/cub_map.html" width="300" height="300">
