@@ -2,8 +2,8 @@
 <img 
   src="/img/Annaphoto.jpeg" 
   alt="Anna headshot" 
-  width="38%"
-  style="float: left; margin-right: 15px;">
+  width="37%"
+  style="float: left; margin-right: 20px;">
   I'm a PhD student in the <a 
   href="https://www.colorado.edu/lab/johnson-laboratory"
   target="_blank">
