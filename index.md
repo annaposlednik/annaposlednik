@@ -2,8 +2,8 @@
 <img 
   src="/img/Annaphoto.jpeg" 
   alt="Anna headshot" 
-  width="35%"
-  style="float: left; margin-right: 10px;">
+  width="38%"
+  style="float: left; margin-right: 15px;">
   I'm a PhD student in the <a 
   href="https://www.colorado.edu/lab/johnson-laboratory"
   target="_blank">
@@ -12,7 +12,7 @@
 </div>
 
 #### Educational Background
-* M.S. Virginia Institute of Marine Science, College of William & Mary
+* M.S. College of William & Mary (VIMS)
 * B.S. Cornell University
 * A.A. Bard Early College
 
