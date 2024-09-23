@@ -40,7 +40,7 @@
 #### Patterns in annual snowfall at JFK Airport, NYC have not changed over time.
 <embed type="text/html" src="climate-analysis/dailysnowplot.html" width="500" height="500">
 The interactive plot above is a great way to see which specific days had high snowfall in NYC. The highest peak of snowfall (30.3 inches) on January 23, 2016 broke records and resulted in  <a 
-  href="https://en.wikipedia.org/wiki/January_2016_United_States_blizzard 13,000 flight cancellations"
+  href="https://en.wikipedia.org/wiki/January_2016_United_States_blizzard"
   target="_blank"> 13,000 flight cancellations </a> that week. 
   
 <embed type="text/html" src="climate-analysis/int_yearlysnowplot.html" width="500" height="500">
