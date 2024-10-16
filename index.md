@@ -52,7 +52,7 @@ The above graph provides annual average snowfall at JFK airport. The highest ave
 
 ### Osprey Migration Analysis
 #### Osprey exhibit a global distribution with migrations to the North in spring and summer months.
-<embed  type="text/html" src="osprey_migration.html" height="500" width="600">
+<embed  type="text/html" src="species_distribution/osprey_migration.html" height="500" width="600">
 This interactive plot depicts the occurrence observations of osprey across the months of 2023. Osprey have a global distribution, generally found around coasts and waterways, which is most clearly illustrated in Australia in the map above. Osprey begin to be observed at higher frequencies at Northern latitudes in April, and migrate towards equitorial regions beginning in September and October. The large-scale migrations of osprey suggest that osprey may be spreading parasites, particularly trematodes (flatworms) of fish, massive distances which could frustrate management of any diseases these parasites may cause to fish and other intermediate hosts.  
 
 [Link to notebook writeup](/species_distribution/osprey_migrations.ipynb)
@@ -60,5 +60,6 @@ This interactive plot depicts the occurrence observations of osprey across the m
 
 <b>Data citation:</b> 
 Global Biodiversity Information Facility. (2024). GBIF Occurrence Download [Data set]. https://doi.org/10.15468/dl.jqrwjf
+
 RESOLVE. (2017). RESOLVE Ecoregions dataset [Data set]. https://doi.org/10.1093/biosci/bix014
 
