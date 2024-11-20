@@ -63,3 +63,10 @@ Global Biodiversity Information Facility. (2024). GBIF Occurrence Download [Data
 
 RESOLVE. (2017). RESOLVE Ecoregions dataset [Data set]. https://doi.org/10.1093/biosci/bix014
 
+### Redlining and Vegetation in Queens, NY
+<embed type="text/html" src="redlining/fig1.html" height="550" width="700">
+<embed type="text/html" src="redlining/fig2.html" height="550" width="700">
+
+[Link to portfolio post](/redlining/Queens-redlining-portfoliopost.html)
+[Link to full notebook analysis](/redlining/Queens-analysis.html)
+
